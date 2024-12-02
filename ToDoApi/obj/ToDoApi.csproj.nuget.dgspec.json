@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {}
+    "C:\\Users\\moataz\\Desktop\\API\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {
+    "C:\\Users\\moataz\\Desktop\\API\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "projectUniqueName": "C:\\Users\\moataz\\Desktop\\API\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "projectPath": "C:\\Users\\moataz\\Desktop\\API\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
         "packagesPath": "C:\\Users\\moataz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\obj\\",
+        "outputPath": "C:\\Users\\moataz\\Desktop\\API\\ToDoApi\\ToDoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moataz\\AppData\\Roaming\\NuGet\\NuGet.Config",

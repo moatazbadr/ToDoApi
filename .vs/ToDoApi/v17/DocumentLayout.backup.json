@@ -62,7 +62,8 @@
               "RelativeToolTip": "ToDoApi\\DTO\\StudentRegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:02:28.558Z"
+              "WhenOpened": "2024-12-02T16:02:28.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,8 @@
               "RelativeToolTip": "ToDoApi\\DTO\\TodoItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:02:25.388Z"
+              "WhenOpened": "2024-12-01T19:02:25.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +88,8 @@
               "RelativeToolTip": "ToDoApi\\DTO\\StudentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:56:41.798Z"
+              "WhenOpened": "2024-12-01T18:56:41.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,7 +101,8 @@
               "RelativeToolTip": "ToDoApi\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAhwDQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:31:43.396Z"
+              "WhenOpened": "2024-12-01T11:31:43.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +114,8 @@
               "RelativeToolTip": "ToDoApi\\Model\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:27:49.308Z"
+              "WhenOpened": "2024-12-01T10:27:49.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,7 +125,7 @@
               "RelativeDocumentMoniker": "ToDoApi\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\moataz\\source\\repos\\ToDoApi\\ToDoApi\\Controllers\\TodoController.cs",
               "RelativeToolTip": "ToDoApi\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAwwGgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T10:06:23.479Z",
               "EditorCaption": ""
@@ -135,7 +140,8 @@
               "RelativeToolTip": "ToDoApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:54:46.064Z"
+              "WhenOpened": "2024-11-30T09:54:46.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +165,8 @@
               "RelativeToolTip": "ToDoApi\\Model\\TodoItem.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:52:58.106Z"
+              "WhenOpened": "2024-11-30T09:52:58.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -171,7 +178,8 @@
               "RelativeToolTip": "ToDoApi\\Context\\ToDoContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:51:06.894Z"
+              "WhenOpened": "2024-11-30T09:51:06.894Z",
+              "EditorCaption": ""
             }
           ]
         }
